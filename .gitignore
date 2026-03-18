@@ -5,6 +5,9 @@ build/
 dist/
 wheels/
 *.egg-info
-
+*.db
+*.sqlite
+postgres_data/
+ny_taxi_postgres_data/
 # Virtual environments
 .venv
